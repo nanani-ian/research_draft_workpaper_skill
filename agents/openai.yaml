@@ -1,0 +1,4 @@
+interface:
+  display_name: "研究初稿与底稿"
+  short_description: "按需研读与写作，联动资料证据、数据底稿和图表，保留来源与修改边界"
+  default_prompt: "使用 $research-draft-workpapers，根据本次研究需求选择模块，沿用项目约定，完成指定范围的初稿或底稿。"
